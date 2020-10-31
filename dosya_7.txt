@@ -1,0 +1,11 @@
+1 BASLA
+2 yeni Sayi[10]
+3 i=0
+4 GÝR Sayi[i]
+5 i=i+1
+6 EGER i<10 Ýse GÝT 4
+7 i=0
+8 YAZ Sayi[i]
+9 i=i+1
+10 EGER i<10 Ýse GÝT 8
+11 BÝTÝR

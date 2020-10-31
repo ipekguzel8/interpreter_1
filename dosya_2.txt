@@ -1,0 +1,5 @@
+1 BASLA
+2 GÝR a
+3 GÝR b
+4 EGER a>b Ýse YAZ a DEGÝLSE YAZ b
+5 BÝTÝR

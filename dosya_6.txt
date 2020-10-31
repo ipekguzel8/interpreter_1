@@ -1,0 +1,10 @@
+1 BASLA
+2 i=1
+3 t=0
+4 GÝR s
+5 t=t+s
+6 i=i+1
+7 EGER i<=10 Ýse GÝT 4
+8 sonuc=t/10
+9 YAZ sonuc
+10 BÝTÝR

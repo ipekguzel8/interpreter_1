@@ -1,0 +1,6 @@
+1 BASLA
+2 GÝR s1
+3 GÝR s2
+4 sonuc=s1*s2+3
+5 YAZ sonuc
+6 BÝTÝR

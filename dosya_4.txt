@@ -1,0 +1,9 @@
+1 BASLA
+2 toplam=0 
+3 sayac=1
+4 GÝR sayi
+5 toplam=toplam+sayi
+6 sayac=sayac+1
+7 EGER sayac<6 Ýse GÝT 4
+8 YAZ toplam
+9 BÝTÝR

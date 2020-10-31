@@ -1,0 +1,7 @@
+1 BASLA
+2 GÝR n
+3 s=1
+4 YAZ s
+5 s=s+2
+6 EGER s<=n Ýse GÝT 4
+7 BÝTÝR
