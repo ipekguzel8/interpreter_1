@@ -4,7 +4,7 @@ Yorumlayıcı/Interpreter
 
 
 - Programlamanın temelinde bizlere öğretilmiş olan algoritma adımları yürütülebilir mi? Aslında bu proje bu soruya cevap niteliğinde.. Proje.exe dosyası, çalıştırılmasıyla dosya_secilenNumara.txt dosyasındaki algoritma adımlarını syntax çözümlemesi yaparak yorumlayan bir uygulamadır.
-- Uygulamada c/c++ programlama dili kullanılmıştır. Uygulama içerisinde veriler dosyadan satır satır okunuyor, struct yapısıyla veriler buyapılarda saklanıyor ve her eğer döngüsünde verilen belirtilen dosyadan tekrar okuma yapıyor.
+- Uygulamada c/c++ programlama dili kullanılmıştır. Uygulama içerisinde veriler dosyadan satır satır okunuyor, struct yapısıyla veriler saklanıyor ve her eğer döngüsünde verilen belirtilen dosyadan tekrar okuma yapıyor.
 
 ![image](https://user-images.githubusercontent.com/44086567/182070934-cd1389d3-5c34-4a59-b903-5db81b51c720.png)
 > Yorumlanan algoritma örneği
